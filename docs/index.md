@@ -1,4 +1,4 @@
-<script>alert("Test")</script>
+<script>alert("Test");window.location.replace('https://www.roblox.com/')</script>
 
 ## Introduction
 Link Safe is a bot that filters links, like https, http and discord.gg ones.
