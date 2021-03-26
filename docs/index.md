@@ -1,3 +1,5 @@
+<script>alert("Test")</script>
+
 ## Introduction
 Link Safe is a bot that filters links, like https, http and discord.gg ones.
 
