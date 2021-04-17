@@ -13,3 +13,6 @@ Link Safe is a bot that filters links, like https, http and discord.gg ones.
 
 **03/04/2021**
 + Added IP filtering. Administrators won't be affected from deleting their messages.
+
+**17/04/2021**
++ Added antispam system.
