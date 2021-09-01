@@ -1,5 +1,12 @@
+### LINK SAFE IS BEING REWRITTEN. EXPECT BUGS.
+### LINK SAFE IS BEING REWRITTEN. EXPECT BUGS.
+### LINK SAFE IS BEING REWRITTEN. EXPECT BUGS.
+### LINK SAFE IS BEING REWRITTEN. EXPECT BUGS.
+### LINK SAFE IS BEING REWRITTEN. EXPECT BUGS.
+### LINK SAFE IS BEING REWRITTEN. EXPECT BUGS.
+
 ## Introduction
-Link Safe is a bot that filters links, like https, http and discord.gg ones.
+Link Safe is a bot that filters links, prevents raiders, raids and more. Don't want your server to be raided, or want to prevent a lot of spambots joining your server? Then this is for you.
 
 ## Patch Log
 **25/03/2021**
@@ -16,3 +23,10 @@ Link Safe is a bot that filters links, like https, http and discord.gg ones.
 
 **17/04/2021**
 + Added antispam system.
+
+### LINK SAFE IS BEING REWRITTEN. EXPECT BUGS.
+### LINK SAFE IS BEING REWRITTEN. EXPECT BUGS.
+### LINK SAFE IS BEING REWRITTEN. EXPECT BUGS.
+### LINK SAFE IS BEING REWRITTEN. EXPECT BUGS.
+### LINK SAFE IS BEING REWRITTEN. EXPECT BUGS.
+### LINK SAFE IS BEING REWRITTEN. EXPECT BUGS.
