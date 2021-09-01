@@ -1,5 +1,5 @@
 ### Link Safe
-(That's the name, ignore that!)
+Link Safe is **being rewritten.** Expect bugs.
 
 ## Introduction
 	Link Safe is a bot that filters links, prevents raiders, raids and more. Don't want your server to be raided, or want to prevent a lot of spambots joining your server? Then this is for you.
@@ -23,14 +23,7 @@
 	17/04/2021:
 		Added an antispam system.
 	
-	01/09/2021:
-		Rewritten.
+	01/09/2021 (rewrite version):
 		Added new "Did you mean <command>?" feature, when a command is not found.	
+		Even more commands :)
 ```
-
-### LINK SAFE IS BEING REWRITTEN. EXPECT BUGS.
-### LINK SAFE IS BEING REWRITTEN. EXPECT BUGS.
-### LINK SAFE IS BEING REWRITTEN. EXPECT BUGS.
-### LINK SAFE IS BEING REWRITTEN. EXPECT BUGS.
-### LINK SAFE IS BEING REWRITTEN. EXPECT BUGS.
-### LINK SAFE IS BEING REWRITTEN. EXPECT BUGS.
